@@ -1,12 +1,12 @@
 ## Objectives
 
-# Continuous model learning for predictive analytics
+### Continuous model learning for predictive analytics
 
-# Business intelligence
+### Business intelligence
 
-# User modelling and interactive recommendation engines
+### User modelling and interactive recommendation engines
 
-# Improving viewer's experience in video events
+### Improving viewer's experience in video events
 
 ## Projects
 
